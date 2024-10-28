@@ -3,9 +3,18 @@
    <head>
        <meta charset="UTF-8">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <title>Document</title>
+       <title>DevStudio</title>
    </head>
    <body>
-
+        <header>
+            <h1><a href="devstudio.com">DevStudio</a></h1>
+            <nav>
+                <ul>
+                    <li>Про нас</li>
+                    <li>Портфоліо</li>
+                    <li>Контакти</li>
+                </ul>
+            </nav>
+        </header>
    </body>
 </html>
